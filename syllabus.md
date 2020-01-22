@@ -27,11 +27,24 @@ By the end of this course, you will be able to:
 
 ## Grading
 
-*Participation in class (10%)*
+*Participation in class (10%)* 
+
+Class participation begins with regular attendance.
 
 *Quizzes (30%)*
 
+There will be a short quiz by the end of each chapter.
+
+
 *Essay (30%)*
 
+Students will have to write a short essay as a midterm.
+
 *Final exam (30%)*
+
+The final exam will be a multiple choice and realized in class.
+
+## Learning environment
+
+
 
