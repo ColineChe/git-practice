@@ -1,0 +1,17 @@
+Cheatsheet
+echo is for repeating things
+cat is for reading text files
+echo "blabla" > is to write in a text file
+echo "blabla">> is to add text to the text file
+pwd is to know where I am
+ls is to see the files of the folder I am in
+cd is to navigate in the folders
+cd .. is to go one directory up
+touch is to create a file
+mkdir is to create a folder
+code nameofthefile is to open Visual Studio Code with the file
+
+IMPORTANT Git and GitHub
+git add "name of the file" is to stage a version
+git commit -m "note to myself to indicate the changes" is to commit the changes
+git push origin master is to save the changes on git hub. Not necessary if I only want the changes saved in my own computer.
